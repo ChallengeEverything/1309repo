@@ -5,3 +5,5 @@ hello world
 string2
 string3
 new message
+def func2():
+    pass
